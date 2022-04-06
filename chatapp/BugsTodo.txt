@@ -1,0 +1,14 @@
+---css styles at login page -fixed---
+
+---search user bug (login user displays at search results) frontend/src/userAvatar/UserListItem--- -fixed
+---add to group bug (login user displays at search results) frontend/src/userAvatar/UserListItem--- -fixed
+
+---  ---
+ ---OverwriteModelError: Cannot overwrite `User` model once compiled. =backend/mode/userModel= ---    --fixed--
+
+
+
+    index.js || routes?  bug after react router updated to 5 or history updated to 5
+ ---after login at chat page displays only white ---
+ ---history.push not working when using BrowserRouter  ---   
+
